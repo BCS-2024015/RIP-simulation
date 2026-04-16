@@ -43,8 +43,11 @@ npm install
 npm run dev
 ```
 
-#### Windows (Quick Start)
-If you are on Windows, simply double-click the `run_simulator.bat` helper script located inside the repository for an automated dependency check and startup!
+### Windows (Quick Start)
+No installation or dependencies required! You can download the fully compiled standalone application directly from our Releases page:
+👉 **[Download AetherNet Simulator](https://github.com/BCS-2024015/RIP-simulation/releases/latest)**
+
+Simply download the `.exe` file and double-click to run the simulation.
 
 #### Building the Desktop App
 You can package this repository directly into a standalone, portable desktop executable using Electron-Builder:
